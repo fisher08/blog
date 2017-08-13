@@ -1,8 +1,8 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Blog"
+description:        ""
 
-url:                "http://thinker3197.github.io/ink"
-author:             "thinker3197"
+url:                "http://fisher08.github.io/blog"
+author:             "fisher08"
 email:              "jhondoe@abc.com"
 gravatar_hash:      "de5c7e08016aeaa80d78eacbc33d60cc"
 twitter:            "jhondoe"
